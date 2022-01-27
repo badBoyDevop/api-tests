@@ -6,3 +6,5 @@ Hello world, Josh here.
 
 Hi there!
 /*Write summary*/
+
+Ask about what he meant about removing JSON?
