@@ -1,4 +1,4 @@
-import assert from 'assert';
+import assert from 'assert'; //adding assert to the login test
 import fetch from 'node-fetch';
 import config from 'config';
 
