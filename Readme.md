@@ -10,6 +10,7 @@ Hi there!
 Ask about what he meant about removing JSON?
 
 Josh- Are we suppose to use branches or will they slow us down?
+
 How do we find pull request link through using desktop version(github)?
 
 Change
