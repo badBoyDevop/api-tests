@@ -6,3 +6,5 @@ COPY . /app
 RUN npm install
 
 RUN npm run test-dev
+
+CMD npm run test
