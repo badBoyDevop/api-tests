@@ -24,9 +24,7 @@ spec:
           requests:
             cpu: 50m
             memory: 100m
-<<<<<<< HEAD
             #commentt
-            #comment
-=======
->>>>>>> 7c46655a34ee941651bb10b6754004f94cefc09d
+           
+
 
