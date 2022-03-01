@@ -1,0 +1,12 @@
+dir
+cd api-tests
+git checkout -b joshtest
+git add .
+git commit -m "message"
+git push
+git push --set-upstream origin joshtest
+
+
+
+kubectl apply -f josh-pod.yaml
+kubectl get pods
