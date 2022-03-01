@@ -7,3 +7,4 @@ steps:
   - '.'
   - '-t'
   - 'gcr.io/$PROJECT_ID/hyrule-development-api-test:latest'
+
