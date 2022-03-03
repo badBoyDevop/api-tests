@@ -7,10 +7,9 @@ Hello world, Josh here.
 Hi there!
 /*Write summary*/
 
-Ask about what he meant about removing JSON?
 
 Josh- Are we suppose to use branches or will they slow us down?
 
-How do we find pull request link through using desktop version(github)?
+We need to create them then delete them after we use them. I believe that is what Brother Murdock was saying on the last meeting. -Dorian
 
-Change
+Would we be able to push everything through the VS and then clone it to the Console Cloud for Google?
