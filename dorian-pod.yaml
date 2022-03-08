@@ -20,10 +20,17 @@ spec:
         resources:
           limits:
             cpu: 100m
+<<<<<<< HEAD
             memory: 250M
           requests:
             cpu: 50m
             memory: 100M
+=======
+            memory: 250m
+          requests:
+            cpu: 50m
+            memory: 100m
+>>>>>>> ea6d1caaaf3d66a850649975c606da764b5f2f7a
             #commentt
            
 
