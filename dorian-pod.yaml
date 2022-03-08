@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: derek-washburn
-spec:
+  name: dorian-lapi
+spec: 
   replicas: 1
   selector:
     matchLabels:
-      app: derek-washburn
+      app: dorian-lapi
   template:
     metadata:
       labels:
-        app: derek-washburn
+        app: dorian-lapi
     spec:
       containers:
-      - name: derek-washburn
+      - name: dorian-lapi
         image: nginx
         ports:
         - containerPort: 80
@@ -24,3 +24,7 @@ spec:
           requests:
             cpu: 50m
             memory: 100M
+            #commentt
+           
+
+
